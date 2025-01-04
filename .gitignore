@@ -7,6 +7,8 @@ __pycache__/
 *.so
 #entorno virtual
 venv/
+#clave API
+key.json
 
 # Distribution / packaging
 .Python
