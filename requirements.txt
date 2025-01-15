@@ -7,6 +7,7 @@ colorama==0.4.6
 dash==2.18.2
 dash-core-components==2.0.0
 dash-html-components==2.0.0
+dash-bootstrap-components==1.5.0
 dash-table==5.0.0
 Flask==3.0.3
 google-auth==2.37.0
@@ -29,6 +30,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pyparsing==3.2.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.0.0
 pytz==2024.2
 requests==2.32.3
 requests-oauthlib==2.0.0
